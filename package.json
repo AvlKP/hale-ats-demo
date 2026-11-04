@@ -1,0 +1,9 @@
+{
+  "name": "hale-ats-local-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone HALE ATS mission-control demo",
+  "type": "module",
+  "scripts": { "start": "node start.mjs" },
+  "engines": { "node": ">=18" }
+}
